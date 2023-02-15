@@ -1,1 +1,1 @@
-# Tenzies_game
+Tenzies game is an very easy game for children# Tenzies_game
